@@ -1,0 +1,1 @@
+streamlit run C:\Users\user\TaipowerTalk2023\dashboard\dash.py
